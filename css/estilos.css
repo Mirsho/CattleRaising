@@ -1,0 +1,67 @@
+/* 
+    Author     : Adrián Perera Hernández
+*/
+.encabezado img#logoGC{
+    height: 92px;
+    width: 200px;
+    margin-left: 20em;
+}
+
+.encabezado img{
+	float: left;
+	list-style: none;
+	padding-left: 5em;
+	line-height: 1.5em;
+}
+
+ul.superior{
+    clear: both;
+    float: left;
+    width: 1200px;
+    list-style: none;
+    margin-left: 20em;
+    padding-left: 5em;
+    line-height: 1.5em;
+}
+
+ul.superior li{
+    float: left;
+    padding-left: 2em;
+    margin-top: 1em;
+    margin-right: auto;
+}
+
+ul.superior li a{
+    display: block;
+    font-size: 1.2em;
+    text-decoration: none;
+    color: #58c8ea;
+    padding-right: 5em;
+    vertical-align: middle;
+}
+
+.portada{
+    position: absolute;
+    margin: auto;
+    margin-left: 20em;
+    margin-top: 8em;
+    width: 1300px;
+}
+
+.portada table{
+    border: solid 2px #58c8ea;
+}
+
+.portada td{
+    padding: .2em;
+    margin: .2em;
+    border: solid 2px #58c8ea;
+}
+
+.piedepagina{
+    position: absolute;
+    bottom: 0em;
+    left: 0em;
+    width: 100%;
+    border-collapse: collapse;
+}
